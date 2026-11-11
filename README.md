@@ -203,4 +203,4 @@ This repository serves as the official landing page for Spellstone. The software
 **Get the most recent version of Spellstone today!**
 
 ---
-**Last updated:** 2026-11-10 22:49:22 UTC
+**Last updated:** 2026-11-11 02:31:45 UTC
